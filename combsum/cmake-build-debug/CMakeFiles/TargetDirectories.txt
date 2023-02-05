@@ -1,0 +1,3 @@
+/home/yelnat/Documents/programmin/leetcode/combsum/cmake-build-debug/CMakeFiles/combsum.dir
+/home/yelnat/Documents/programmin/leetcode/combsum/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/yelnat/Documents/programmin/leetcode/combsum/cmake-build-debug/CMakeFiles/rebuild_cache.dir

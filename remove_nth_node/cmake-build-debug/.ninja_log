@@ -1,0 +1,9 @@
+# ninja log v5
+0	267	1672696467511462871	CMakeFiles/remove_nth_node.dir/main.cpp.o	e339e9d12c0ec55b
+267	323	1672696467567467781	remove_nth_node	f2b86808686149df
+0	282	1672696627817518066	CMakeFiles/remove_nth_node.dir/main.cpp.o	e339e9d12c0ec55b
+282	332	1672696627865522275	remove_nth_node	f2b86808686149df
+0	277	1672696737055095704	CMakeFiles/remove_nth_node.dir/main.cpp.o	e339e9d12c0ec55b
+277	327	1672696737103099913	remove_nth_node	f2b86808686149df
+0	289	1672696769169911436	CMakeFiles/remove_nth_node.dir/main.cpp.o	e339e9d12c0ec55b
+289	344	1672696769221915995	remove_nth_node	f2b86808686149df

@@ -1,0 +1,3 @@
+/home/yelnat/Documents/programmin/leetcode/rotting_oranges/cmake-build-debug/CMakeFiles/rotting_oranges.dir
+/home/yelnat/Documents/programmin/leetcode/rotting_oranges/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/yelnat/Documents/programmin/leetcode/rotting_oranges/cmake-build-debug/CMakeFiles/rebuild_cache.dir

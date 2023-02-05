@@ -1,0 +1,3 @@
+/home/yelnat/Documents/programmin/leetcode/two_sorted_lists/cmake-build-debug/CMakeFiles/two_sorted_lists.dir
+/home/yelnat/Documents/programmin/leetcode/two_sorted_lists/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/yelnat/Documents/programmin/leetcode/two_sorted_lists/cmake-build-debug/CMakeFiles/rebuild_cache.dir

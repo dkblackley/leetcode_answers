@@ -1,0 +1,3 @@
+/home/yelnat/Documents/programmin/ransom-notes/cmake-build-debug/CMakeFiles/ransom_notes.dir
+/home/yelnat/Documents/programmin/ransom-notes/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/yelnat/Documents/programmin/ransom-notes/cmake-build-debug/CMakeFiles/rebuild_cache.dir

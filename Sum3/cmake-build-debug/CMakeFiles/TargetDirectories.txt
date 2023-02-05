@@ -1,0 +1,3 @@
+/home/yelnat/Documents/programmin/leetcode/Sum3/cmake-build-debug/CMakeFiles/Sum3.dir
+/home/yelnat/Documents/programmin/leetcode/Sum3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/yelnat/Documents/programmin/leetcode/Sum3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
